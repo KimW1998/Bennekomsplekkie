@@ -14,6 +14,12 @@ h1 {
   color: rgb(85, 199, 189);
 }
 
+h6 {
+  text-align: center;
+  font-family: "Tinos", serif;
+  color: rgb(85, 199, 189);
+}
+
 footer {
   text-align: center;
   font-family: "Tinos", serif;
