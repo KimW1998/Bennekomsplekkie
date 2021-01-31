@@ -19,3 +19,10 @@ footer {
   font-family: "Tinos", serif;
   color: rgb(85, 199, 189);
 }
+
+.titlePicture {
+  display: block;
+  margin: 0 auto;
+  max-width: 80%;
+  border-radius: 8px;
+}
