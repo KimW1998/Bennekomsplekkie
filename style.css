@@ -1,3 +1,21 @@
+body {
+  background-color: rgb(231, 224, 224);
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 15px 60px;
+}
+
 h1 {
+  text-align: center;
+  font-family: "Tinos", serif;
+  color: rgb(85, 199, 189);
+}
+
+footer {
+  text-align: center;
+  font-family: "Tinos", serif;
   color: rgb(85, 199, 189);
 }
