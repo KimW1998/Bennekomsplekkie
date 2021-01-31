@@ -20,6 +20,27 @@ h6 {
   color: rgb(85, 199, 189);
 }
 
+.fa {
+  padding: 20px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-instagram {
+  color: rgb(85, 199, 189);
+  font-size: 50px;
+}
+
+.fa-facebook-f {
+  color: rgb(85, 199, 189);
+  font-size: 50px;
+}
+
 footer {
   text-align: center;
   font-family: "Tinos", serif;
