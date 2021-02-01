@@ -11,13 +11,13 @@ body {
 h1 {
   text-align: center;
   font-family: "Tinos", serif;
-  color: rgb(85, 199, 189);
+  color: black;
 }
 
 h6 {
   text-align: center;
   font-family: "Tinos", serif;
-  color: rgb(85, 199, 189);
+  color: black;
 }
 
 .fa {
@@ -27,24 +27,30 @@ h6 {
   text-decoration: none;
 }
 
+.icons {
+  display: inline-block;
+  width: 100px;
+  text-align: center;
+}
+
 .fa:hover {
   opacity: 0.7;
 }
 
 .fa-instagram {
-  color: rgb(85, 199, 189);
+  color: black;
   font-size: 50px;
 }
 
 .fa-facebook-f {
-  color: rgb(85, 199, 189);
+  color: black;
   font-size: 50px;
 }
 
 footer {
   text-align: center;
   font-family: "Tinos", serif;
-  color: rgb(85, 199, 189);
+  color: black;
 }
 
 .titlePicture {
