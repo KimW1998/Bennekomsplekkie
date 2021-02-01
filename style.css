@@ -20,33 +20,6 @@ h6 {
   color: black;
 }
 
-.fa {
-  padding: 20px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-}
-
-.icons {
-  display: inline-block;
-  width: 100px;
-  text-align: center;
-}
-
-.fa:hover {
-  opacity: 0.7;
-}
-
-.fa-instagram {
-  color: black;
-  font-size: 50px;
-}
-
-.fa-facebook-f {
-  color: black;
-  font-size: 50px;
-}
-
 footer {
   text-align: center;
   font-family: "Tinos", serif;
