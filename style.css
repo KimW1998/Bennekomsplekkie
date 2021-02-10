@@ -32,3 +32,10 @@ footer {
   max-width: 80%;
   border-radius: 8px;
 }
+
+.newspaper {
+  display: block;
+  margin: 0 auto;
+  max-width: 80%;
+  border-radius: 8px;
+}
